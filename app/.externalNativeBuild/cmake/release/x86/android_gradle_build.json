@@ -1,0 +1,47 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Users/CristMac/Google Drive/NewGrid/app/src/main/jni/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"/Users/CristMac/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/CristMac/Google\\ Drive/NewGrid/app/.externalNativeBuild/cmake/release/x86 --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"SuperpoweredExample-Release-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "SuperpoweredExample",
+			"buildCommand" : "/Users/CristMac/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/CristMac/Google\\ Drive/NewGrid/app/.externalNativeBuild/cmake/release/x86 --target SuperpoweredExample",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=/Users/CristMac/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/CristMac/Library/Android/sdk/ndk-bundle/sysroot  -DSuperpoweredExample_EXPORTS -I\"/Users/CristMac/Google Drive/NewGrid/app/src/main/jni/src/main/jni\" -I/Users/CristMac/Downloads/SuperpoweredSDK3/Superpowered -isystem /Users/CristMac/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/CristMac/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include -isystem /Users/CristMac/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /Users/CristMac/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=16 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -fsigned-char -I/Users/CristMac/Downloads/SuperpoweredSDK3/Superpowered -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/CristMac/Google Drive/NewGrid/app/src/main/jni/SuperpoweredExample.cpp",
+					"workingDirectory" : "/Users/CristMac/Google Drive/NewGrid/app/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=/Users/CristMac/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/CristMac/Library/Android/sdk/ndk-bundle/sysroot  -DSuperpoweredExample_EXPORTS -I\"/Users/CristMac/Google Drive/NewGrid/app/src/main/jni/src/main/jni\" -I/Users/CristMac/Downloads/SuperpoweredSDK3/Superpowered -isystem /Users/CristMac/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/CristMac/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include -isystem /Users/CristMac/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /Users/CristMac/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=16 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -fsigned-char -I/Users/CristMac/Downloads/SuperpoweredSDK3/Superpowered -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/CristMac/Downloads/SuperpoweredSDK3/Superpowered/AndroidIO/SuperpoweredAndroidAudioIO.cpp",
+					"workingDirectory" : "/Users/CristMac/Google Drive/NewGrid/app/.externalNativeBuild/cmake/release/x86"
+				}
+			],
+			"output" : "/Users/CristMac/Google Drive/NewGrid/app/build/intermediates/cmake/release/obj/x86/libSuperpoweredExample.so",
+			"toolchain" : "7968189542960144844"
+		}
+	},
+	"toolchains" : 
+	{
+		"7968189542960144844" : 
+		{
+			"cCompilerExecutable" : "/Users/CristMac/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/CristMac/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}

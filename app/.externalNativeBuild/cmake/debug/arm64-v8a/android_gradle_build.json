@@ -1,0 +1,47 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Users/CristMac/Google Drive/NewGrid/app/src/main/jni/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"/Users/CristMac/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/CristMac/Google\\ Drive/NewGrid/app/.externalNativeBuild/cmake/debug/arm64-v8a --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"SuperpoweredExample-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "SuperpoweredExample",
+			"buildCommand" : "/Users/CristMac/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/CristMac/Google\\ Drive/NewGrid/app/.externalNativeBuild/cmake/debug/arm64-v8a --target SuperpoweredExample",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=/Users/CristMac/Library/Android/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/CristMac/Library/Android/sdk/ndk-bundle/sysroot  -DSuperpoweredExample_EXPORTS -I\"/Users/CristMac/Google Drive/NewGrid/app/src/main/jni/src/main/jni\" -I/Users/CristMac/Downloads/SuperpoweredSDK3/Superpowered -isystem /Users/CristMac/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/CristMac/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/arm64-v8a/include -isystem /Users/CristMac/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /Users/CristMac/Library/Android/sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -fsigned-char -I/Users/CristMac/Downloads/SuperpoweredSDK3/Superpowered -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/CristMac/Google Drive/NewGrid/app/src/main/jni/SuperpoweredExample.cpp",
+					"workingDirectory" : "/Users/CristMac/Google Drive/NewGrid/app/.externalNativeBuild/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=/Users/CristMac/Library/Android/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/CristMac/Library/Android/sdk/ndk-bundle/sysroot  -DSuperpoweredExample_EXPORTS -I\"/Users/CristMac/Google Drive/NewGrid/app/src/main/jni/src/main/jni\" -I/Users/CristMac/Downloads/SuperpoweredSDK3/Superpowered -isystem /Users/CristMac/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/CristMac/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/arm64-v8a/include -isystem /Users/CristMac/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /Users/CristMac/Library/Android/sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -fsigned-char -I/Users/CristMac/Downloads/SuperpoweredSDK3/Superpowered -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/CristMac/Downloads/SuperpoweredSDK3/Superpowered/AndroidIO/SuperpoweredAndroidAudioIO.cpp",
+					"workingDirectory" : "/Users/CristMac/Google Drive/NewGrid/app/.externalNativeBuild/cmake/debug/arm64-v8a"
+				}
+			],
+			"output" : "/Users/CristMac/Google Drive/NewGrid/app/build/intermediates/cmake/debug/obj/arm64-v8a/libSuperpoweredExample.so",
+			"toolchain" : "7968189542960144844"
+		}
+	},
+	"toolchains" : 
+	{
+		"7968189542960144844" : 
+		{
+			"cCompilerExecutable" : "/Users/CristMac/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/CristMac/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}

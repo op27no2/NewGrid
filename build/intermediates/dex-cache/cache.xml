@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/CristMac/Downloads/SuperpoweredSDK3/Examples_Android/CrossExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/CristMac/Downloads/SuperpoweredSDK3/Examples_Android/CrossExample/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_690c8347f3047e207bbeb93961dcf9897ee1fc3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/CristMac/Downloads/SuperpoweredSDK3/Examples_Android/CrossExample/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/CristMac/Downloads/SuperpoweredSDK3/Examples_Android/CrossExample/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_574b0a7026071af0657db88a661c9ddc06f78568.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/CristMac/Downloads/SuperpoweredSDK3/Examples_Android/CrossExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/CristMac/Downloads/SuperpoweredSDK3/Examples_Android/CrossExample/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_5a2c47ff9410cc2c8308f65da98373acf5ebff55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/CristMac/Downloads/SuperpoweredSDK3/Examples_Android/CrossExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/CristMac/Downloads/SuperpoweredSDK3/Examples_Android/CrossExample/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_3b6d2bb4b82ec4a964deb7368640589b03d5874e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/CristMac/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/CristMac/Downloads/SuperpoweredSDK3/Examples_Android/CrossExample/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_d93c26842230083fe3eee7e0a95cb6fd1e5a9ded.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/CristMac/Downloads/SuperpoweredSDK3/Examples_Android/CrossExample/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/CristMac/Downloads/SuperpoweredSDK3/Examples_Android/CrossExample/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_6bc5e8f4522a037feba60e736965af362a492344.jar" />
+    </item>
+
+</items>
