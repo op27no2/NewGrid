@@ -3,21 +3,30 @@
 
     <item
         is-multidex="false"
-        jar="/Users/CristMac/Downloads/SuperpoweredSDK3/Examples_Android/CrossExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jar="/Users/CristMac/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-s3/2.2.22/40fe82092e0ae3ca549b132a1e7e876807525176/aws-android-sdk-s3-2.2.22.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
-        <dex dex="/Users/CristMac/Downloads/SuperpoweredSDK3/Examples_Android/CrossExample/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_690c8347f3047e207bbeb93961dcf9897ee1fc3a.jar" />
+        sha1="40fe82092e0ae3ca549b132a1e7e876807525176">
+        <dex dex="/Users/CristMac/Google Drive/NewGrid/app/build/intermediates/pre-dexed/debug/aws-android-sdk-s3-2.2.22_1df2228b08f9f95056b818d9cdf44cfb0e7a3b93.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/CristMac/Downloads/SuperpoweredSDK3/Examples_Android/CrossExample/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jar="/Users/CristMac/Google Drive/NewGrid/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
-        <dex dex="/Users/CristMac/Downloads/SuperpoweredSDK3/Examples_Android/CrossExample/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_574b0a7026071af0657db88a661c9ddc06f78568.jar" />
+        <dex dex="/Users/CristMac/Google Drive/NewGrid/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_b31d3fa538a7200694731c5b02e15c2612be054e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/CristMac/Google Drive/NewGrid/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/CristMac/Google Drive/NewGrid/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_486f40dbda85188982213be991a1debe241e4bde.jar" />
     </item>
     <item
         is-multidex="false"
@@ -30,12 +39,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/CristMac/Downloads/SuperpoweredSDK3/Examples_Android/CrossExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jar="/Users/CristMac/Downloads/SuperpoweredSDK3/Examples_Android/CrossExample/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="/Users/CristMac/Downloads/SuperpoweredSDK3/Examples_Android/CrossExample/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_3b6d2bb4b82ec4a964deb7368640589b03d5874e.jar" />
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/CristMac/Downloads/SuperpoweredSDK3/Examples_Android/CrossExample/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_6bc5e8f4522a037feba60e736965af362a492344.jar" />
     </item>
     <item
         is-multidex="false"
@@ -48,12 +57,93 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/CristMac/Downloads/SuperpoweredSDK3/Examples_Android/CrossExample/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jar="/Users/CristMac/Google Drive/NewGrid/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
-        <dex dex="/Users/CristMac/Downloads/SuperpoweredSDK3/Examples_Android/CrossExample/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_6bc5e8f4522a037feba60e736965af362a492344.jar" />
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/CristMac/Google Drive/NewGrid/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_c285780c890afc2e512dc6d091a4917794deed4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/CristMac/Downloads/SuperpoweredSDK3/Examples_Android/CrossExample/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/CristMac/Downloads/SuperpoweredSDK3/Examples_Android/CrossExample/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_574b0a7026071af0657db88a661c9ddc06f78568.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/CristMac/Google Drive/NewGrid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/CristMac/Google Drive/NewGrid/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_af8fe5a81084d6f112e0e8c3ba9c7760b9ab09b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/CristMac/Google Drive/NewGrid/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/CristMac/Google Drive/NewGrid/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_70aff6efd75578971ed711f1b21ce7391fd3fb79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/CristMac/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-core/2.2.22/c6789de00db9d1f93faec881fa0c1f5960fb8a15/aws-android-sdk-core-2.2.22.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c6789de00db9d1f93faec881fa0c1f5960fb8a15">
+        <dex dex="/Users/CristMac/Google Drive/NewGrid/app/build/intermediates/pre-dexed/debug/aws-android-sdk-core-2.2.22_76d564e51562098f440e14673d1d05cda7850fe0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/CristMac/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-ddb/2.2.22/a1e0dd0d91d40d9e67342d3a8bd26f08edaa3549/aws-android-sdk-ddb-2.2.22.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1e0dd0d91d40d9e67342d3a8bd26f08edaa3549">
+        <dex dex="/Users/CristMac/Google Drive/NewGrid/app/build/intermediates/pre-dexed/debug/aws-android-sdk-ddb-2.2.22_b50b4f4cc34efda3dd6d3af4a884454a5aba857e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/CristMac/Downloads/SuperpoweredSDK3/Examples_Android/CrossExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/CristMac/Downloads/SuperpoweredSDK3/Examples_Android/CrossExample/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_3b6d2bb4b82ec4a964deb7368640589b03d5874e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/CristMac/Downloads/SuperpoweredSDK3/Examples_Android/CrossExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/CristMac/Downloads/SuperpoweredSDK3/Examples_Android/CrossExample/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_690c8347f3047e207bbeb93961dcf9897ee1fc3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio 2.app/Contents/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/CristMac/Google Drive/NewGrid/app/build/intermediates/pre-dexed/debug/gson-2.2.4_593dd7370e40f8ce8ad93dccb307d5f4c2b5b8d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/CristMac/Google Drive/NewGrid/app/build/intermediates/exploded-aar/net.bohush.geometricprogressview/geometricprogressview/1.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2f6f5f18070c2513bd90621781a90967707a671">
+        <dex dex="/Users/CristMac/Google Drive/NewGrid/app/build/intermediates/pre-dexed/debug/net.bohush.geometricprogressview-geometricprogressview-1.1.1_3a96918bc4602c6f358c7be4c703526d3e08c14d.jar" />
     </item>
 
 </items>

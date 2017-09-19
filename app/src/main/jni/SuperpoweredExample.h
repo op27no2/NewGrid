@@ -6,6 +6,7 @@
 
 #include "SuperpoweredExample.h"
 #include <SuperpoweredAdvancedAudioPlayer.h>
+#include <SuperpoweredRecorder.h>
 #include <SuperpoweredFilter.h>
 #include <SuperpoweredRoll.h>
 #include <SuperpoweredFlanger.h>
@@ -17,11 +18,15 @@ static const float headroom = powf(10.0f, -HEADROOM_DECIBEL * 0.025f);
 class SuperpoweredExample {
 public:
 
-	SuperpoweredExample(unsigned int samplerate, unsigned int buffersize, const char *path, int fileAoffset, int fileAlength, int fileBoffset, int fileBlength);
+	SuperpoweredExample(unsigned int samplerate, unsigned int buffersize, const char *path, int fileAoffset, int fileAlength, int fileBoffset, int fileBlength, const char *testPath[]);
 	~SuperpoweredExample();
 
 	bool process(short int *output, unsigned int numberOfSamples);
-	void onPlayPause(bool play);
+	bool processRecording(short int *output, unsigned int numberOfSamples);
+	void onSuperPlay();
+	void onSuperRecord(bool record, const char *fileTarget,const char *fileTargetWav, const char *tempTarget);
+    void onTestPlay(int value);
+    void onSuperPause();
 	void onCrossfader(int value);
 	void onFxSelect(int value);
 	void onFxOff();
@@ -30,10 +35,14 @@ public:
 
 private:
     SuperpoweredAndroidAudioIO *audioSystem;
+    SuperpoweredAndroidAudioIO *audioSystemRecording;
     SuperpoweredAdvancedAudioPlayer *playerA, *playerB;
+    SuperpoweredAdvancedAudioPlayer *oPlayers[9];
+    SuperpoweredRecorder *recorder;
     SuperpoweredRoll *roll;
     SuperpoweredFilter *filter;
     SuperpoweredFlanger *flanger;
+    int sampleRate;
     float *stereoBuffer;
     unsigned char activeFx;
     float crossValue, volA, volB;

@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">CrossExample</string>
+    <string name="app_name">SampleVerse</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <color name="MediumBlue">#3949AB</color>
+    <color name="DarkBlue">#283593</color>
+    <color name="VeryDarkBlue">#1A237E</color>
+    <color name="LightPurple">#9C27B0</color>
+    <color name="DarkPurple">#6A1B9A</color>
+    <color name="VeryDarkPurple">#4A148C</color>
 
 </resources>

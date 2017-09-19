@@ -2,9 +2,5 @@
     {
         "merged": "/Users/CristMac/Google Drive/NewGrid/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
         "source": "/Users/CristMac/Google Drive/NewGrid/app/src/main/res/menu/menu_main.xml"
-    },
-    {
-        "merged": "/Users/CristMac/Downloads/SuperpoweredSDK3/Examples_Android/CrossExample/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
-        "source": "/Users/CristMac/Downloads/SuperpoweredSDK3/Examples_Android/CrossExample/app/src/main/res/menu/menu_main.xml"
     }
 ]
